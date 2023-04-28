@@ -1,0 +1,18 @@
+{
+    "ConnectionStrings":[
+        {
+            "name": "DataBase1",
+            "connection_string": [
+                {
+                    "driver":"{ODBC Driver 17 for SQL Server}",
+                    "server":"DESKTOP-7GBA6AP",
+                    "database":"TurboRenting2",
+                    "uid":"sa",
+                    "pwd":"test1234"
+
+                }
+            ]
+        }
+    ]
+}
+    
