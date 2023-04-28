@@ -12,5 +12,6 @@ def toFillUser(user, user_data):
     User.setRole(user, role.getRoleName())
 
 
+# Method to compare user password and given password
 def comparePasswords(user, password):
     return True if user.getUserPassword() == password else False
